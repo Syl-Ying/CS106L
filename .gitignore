@@ -1,0 +1,4 @@
+/.vscode
+/hello.dSYM
+cTest.code-workspace
+*.out
