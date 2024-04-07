@@ -1,0 +1,5 @@
+/.vscode
+/*.dSYM
+cTest.code-workspace
+*.out
+.DS_Store
