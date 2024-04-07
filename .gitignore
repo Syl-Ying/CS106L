@@ -1,5 +1,5 @@
 /.vscode
-/hello.dSYM
+/*.dSYM
 cTest.code-workspace
 *.out
 .DS_Store

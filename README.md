@@ -1,4 +1,5 @@
-Stanford CS106L
+# Stanford CS106L
+https://web.stanford.edu/class/archive/cs/cs106l/cs106l.1204/lectures.html
 
 - [x] History and Philosophy of C++
 - [ ] Streams
