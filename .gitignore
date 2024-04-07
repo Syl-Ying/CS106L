@@ -4,20 +4,18 @@
 !*.*
 # Unignore all dirs
 !*/
-### Above combination will ignore all files without extension ###
+### Above combination will ignore all files without extension. eg. binary file ###
 
-/.vscode
-/*.dSYM
-cTest.code-workspace
+# Debug files
+*.dSYM/
+
+# VisualStudioCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# MacOS
 .DS_Store
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Executables
-*.exe
-*.out
-*.app
